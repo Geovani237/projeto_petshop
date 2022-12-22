@@ -1,0 +1,42 @@
+.area-busca {
+    position:relative;
+}
+.form-busca{
+   display: flex;
+   flex-direction: row;
+}
+.lupa{
+    margin: 12px;
+    left: -50px;
+    position: relative;
+}
+.area-nav{
+    background-image: linear-gradient(#f7e714, #ffbc04 );
+    margin: 10px;
+}
+
+.logo-loja{
+    color: red;
+    font-size: 20px;
+}
+.nome-menu{
+    color: white;
+    font-size: 35px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.pictures{
+    height: 200px;
+    width: 300px;
+}
+.icon{
+    height: 150px;
+    width: 150px;
+    margin: 20px;
+
+}
