@@ -1,0 +1,57 @@
+.bannerArea-dog {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+
+.filter a {
+    text-decoration: none;
+    color: black;
+
+}
+
+li {
+    list-style: none;
+    padding: 5px;
+}
+
+#titleFilter {
+    font-size: 20px;
+}
+
+li :hover {
+    color: rgb(161, 23, 196);
+
+}
+
+h3 {
+    font-size: 15px;
+
+}
+
+.catalog {
+    width: 200px;
+    height: 350px;
+    border: 1px solid rgba(2, 1, 2, 0.116);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+    box-shadow: 1px;
+}
+
+.infoProduto h3 {
+    text-decoration: none;
+    color: black;
+    padding-bottom: 5px;
+}
+
+.precoProduto a {
+    text-decoration: none;
+    color: black;
+}
+.fotoProduto img{
+    
+    padding-bottom: 35px;
+}
